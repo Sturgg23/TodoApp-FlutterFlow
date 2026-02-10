@@ -92,7 +92,7 @@ class _LoginWidgetState extends State<LoginWidget>
                       borderRadius: BorderRadius.circular(8.0),
                       child: Image.asset(
                         'assets/images/landens-tasks-high-resolution-logo-transparent.png',
-                        width: 448.39,
+                        width: 497.3,
                         fit: BoxFit.cover,
                       ),
                     ),
@@ -218,7 +218,7 @@ class _LoginWidgetState extends State<LoginWidget>
                                                               .labelMedium
                                                               .fontStyle,
                                                     ),
-                                            hintText: 'Email...',
+                                            hintText: 'Email..',
                                             hintStyle:
                                                 FlutterFlowTheme.of(context)
                                                     .labelLarge
